@@ -1,0 +1,7 @@
+*.class
+*.iml
+*.jar
+*.war
+*.tar
+.idea/
+*.cache
